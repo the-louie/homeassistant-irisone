@@ -1,0 +1,8 @@
+{
+  "domain": "irisone",
+  "name": "Irisone",
+  "version": "1.0.0",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@the-louie"]
+}
